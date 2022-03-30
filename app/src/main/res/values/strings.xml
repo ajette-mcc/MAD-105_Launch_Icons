@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD-105_Launch_Icons</string>
+    <string name="prog_purpose">Currency conversion Yen - Dollars </string>
+    <string name="dollar_yen">Dollars to Yen</string>
+    <string name="yen_dollar">Yen to Dollars</string>
+    <string name="currency_input">Enter input currency to convert</string>
+    <string name="convert">Convert</string>
+</resources>
